@@ -25,9 +25,9 @@
 - To minimize unnecessary billings,
     - Do stop and delete your unused codespaces
     - By clicking on the &#9776; (hamburger icon on top left)
-    ![hamburger icon](./img/github_hamburger_icon.png)
+    - ![hamburger icon](./img/github_hamburger_icon.png)
     - navigate to CodeSpaces
-    ![codespaces link](./img/github_codespaces.png)
+    - ![codespaces link](./img/github_codespaces.png)
     - if nothing listed
         - all good with no codespaces running or stopped
     - else 
@@ -36,15 +36,15 @@
 
 - Monitor your codespaces quota usage from "Profile > Settings > Access > Billings and plans"
     - Click on your profile icon (top right)
-    ![Profile](./img/github_your_profile_icon.png)
+    - ![Profile](./img/github_your_profile_icon.png)
     - Select "Settings"
-    ![Settings](./img/github_your_settings.png)
+    - ![Settings](./img/github_your_settings.png)
     - on "Settings" panel (left)
         - click on "Access"
         - click on "Billings and plans"
-        ![Billings and Plans](./img/github_access_billings_and_plans.png)
+        - ![Billings and Plans](./img/github_access_billings_and_plans.png)
         - scroll down to view your code spaces usage
-        ![codespaces usage](./img/github_codespaces_usage.png)
+        - ![codespaces usage](./img/github_codespaces_usage.png)
 
 
 
