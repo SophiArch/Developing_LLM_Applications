@@ -1,7 +1,9 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/prulloac/devcontainer-features/ollama:1": {}
+    "ghcr.io/prulloac/devcontainer-features/ollama:1": {
+      "pull": "llama3.2:1b-instruct-q4_0"
+    }
   },
   "hostRequirements": {
     "cpus": 4
